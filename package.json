@@ -1,0 +1,15 @@
+{
+  "name": "reactmix",
+  "version": "1.0.0",
+  "description": "it is a reactmix project",
+  "main": "MoviesApp.android.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "tandrow",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-native": "^0.34.1"
+  }
+}
